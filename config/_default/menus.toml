@@ -3,6 +3,12 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+#Title of site
+title = "Stephen Raynes"
+
+#URL
+baseurl = "https://stephen-raynes.netlify.app/"
+
 [[main]]
   name = "Home"
   url = "#about"
